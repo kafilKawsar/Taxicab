@@ -1,0 +1,336 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+    body {
+        padding-top: 40px;
+        text-align: center;
+    }
+    .c_padding{
+        padding-top: 34px;
+        padding-bottom: 44px;
+    }
+/*header start*/
+    header {
+        padding: 10px 0;
+    }
+    .menu ul li a {
+        padding: 10px 0 0 !important;
+        font-size: 20px;
+        text-align: right;
+    }
+/*slider start*/
+.hero-bg-light-yellow {
+    height: 435px;
+    width: 475px;
+}
+.sf{
+    width: 475px;
+}
+.c_ind {
+    bottom: -60px;
+}
+.c_ind [data-bs-target] {
+    width: 13px;
+    height: 13px;
+}
+.s_text {
+    margin-top: 0;
+}
+    .s_text h1 {
+        font-size: 25px;
+    }
+    .s_text h2 {
+        margin: 10px 0;
+        font-size: 18px;
+    }
+    .s_text p {
+        margin-bottom: 20px;
+    }
+    .s_icon ul li {
+        margin-right: 15px !important;
+    }
+    .s_icon ul li i {
+        font-size: 35px;
+    }
+    /*feature srart*/
+    .c_h1 {
+        margin-bottom: 10px;
+        font-size: 25px;
+    }
+    .c_p {
+        font-size: 17px;
+        line-height: 25px;
+    }
+    .f_item {
+        margin-top: 30px;
+    }
+    .f_icon i {
+        font-size: 35px;
+    }
+    .f_text {
+        text-align: center;
+    }
+    .f_text h2 {
+        margin-bottom: 0px;
+        font-size: 20px;
+    }
+    .f_text p {
+        letter-spacing: 0px;
+    }
+    .div-padding {
+        text-align: center;
+        padding: 53px 0;
+        width: 475px;
+    }
+    .blog {
+        margin-top: 30px;
+        padding-bottom: 100px;
+        width: 475px;
+    }
+    .testimonial-section {
+        padding-bottom: 80px;
+        width: 475px;
+    }
+    .about-us-area .about-us-text {
+         padding-right:0px; 
+    }
+    .div-title {
+        font-size: 26px;
+    }
+    .cm {
+        margin-left: 0;
+    }
+    .footer-nav-div h4, .footer-nav-div .h4 {
+        color: #fff;
+        font-size: 20px;
+        margin-bottom: 30px;
+        margin-left: 1px;
+        text-align: center;
+        margin-top: 45px;
+    }
+    .company-address {
+        margin-left: 15px;
+    }
+    .app-download-box {
+        margin-left: 100px;
+    }
+    .cta-button {
+         margin-left: 0px;
+    }
+
+    /*contact start*/
+    .c_input {
+        height: 45px;
+        padding: 10px 10px;
+    }
+    .c_submit {
+        height: 45px;
+    }
+    /*contact start*/
+    .c_form {
+        margin-top: 40px;
+        margin-bottom: 40px;
+    }
+    .c_input {
+        height: 40px;
+        padding: 10px 10px;
+    }
+    .c_submit {
+        height: 40px;
+    }
+    .c_icon li {
+        margin-right: 20px !important;
+    }
+    .c_icon li i {
+        font-size: 37px;
+    }
+    /*footer start*/
+    footer {
+        padding-bottom: 10px;
+        width: 475px;
+    }
+    .author{
+        margin-top: 8px;
+    }
+    }
+
+    /*Small devices (landscape phones, 576px and up)*/
+    @media (min-width: 576px) and (max-width: 767.98px) {
+    .c_padding{
+        padding-top: 50px;
+        padding-bottom: 70px;
+    }
+    /*header start*/
+    .menu ul li a {
+        padding: 10px 0 0 !important;
+        font-size: 20px;
+        text-align: right;
+    }
+    /*slider start*/
+    .slider {
+        background-color: #fcdb00;
+        padding-bottom: 60px;
+    }
+    .c_ind {
+        bottom: -55px;
+    }
+    .c_ind [data-bs-target] {
+        width: 13px;
+        height: 13px;
+    }
+    .s_text {
+        margin-top: 0;
+    }
+    .s_text h1 {
+        font-size: 25px;
+    }
+    .s_text h2 {
+        margin: 10px 0;
+        font-size: 18px;
+    }
+    .s_text p {
+        margin-bottom: 20px;
+    }
+    .s_icon ul li {
+        margin-right: 20px !important;
+    }
+    .s_icon ul li i {
+        font-size: 35px;
+    }
+    /*feature srart*/
+    .c_h1 {
+        margin-bottom: 10px;
+        font-size: 25px;
+    }
+    .c_p {
+        font-size: 17px;
+        line-height: 25px;
+    }
+    .f_item {
+        margin-top: 30px;
+    }
+    .f_icon i {
+        font-size: 35px;
+    }
+    .f_text {
+        text-align: center;
+    }
+    .f_text h2 {
+        margin-bottom: 0px;
+        font-size: 20px;
+    }
+    .f_text p {
+        letter-spacing: 0px;
+    }
+    /*contact start*/
+    .c_form {
+        margin-top: 35px;
+        margin-bottom: 40px;
+    }
+    .c_input {
+        height: 45px;
+        padding: 10px 10px;
+    }
+    .c_submit {
+        height: 45px;
+    }
+    .c_icon li {
+        margin-right: 25px !important;
+    }
+    .c_icon li i {
+        font-size: 40px;
+    }
+    /*footer start*/
+    footer {
+        padding-bottom: 35px;
+    }
+    .f_1 {
+        text-align: center;
+        margin-bottom: 40px;
+    }
+    .f_2 {
+        text-align: center;
+    }
+    .author{
+        margin-top: 50px;
+    }
+    
+    }
+    
+    /*Medium devices (tablets, 768px and up)*/
+    @media (min-width: 768px) and (max-width: 991.98px) {
+    .c_padding{
+        padding-top: 76px;
+        padding-bottom: 70px;
+    }
+    /*header start*/
+    .c_ind {
+        bottom: -20px;
+    }
+    .fs_icon{
+        margin-top: 20px;
+    }
+    .menu{
+        text-align: center;
+    }
+    .menu ul li a {
+        padding: 10px 0 0 !important;
+        text-align: right;
+        text-align: center;
+
+    }
+    .hero-bg-light-yellow {
+        height: auto;
+        background-repeat: no-repeat;
+        background-color: #343E5F;
+        background-position: center top;
+    }
+    /*feature srart*/
+    .f_item {
+        margin-top: 50px;
+    }
+    .company-address {
+        margin-left: 75px;
+    }
+    .col-md-5 {
+        flex: 0 0 auto;
+        width: auto;
+    }
+    .div-padding {
+        /* padding: 91px 0; */
+        /* text-align: center; */
+    
+    }
+    .about-us-area .about-us-text {
+        text-align: center;
+        /* padding-right: 70px; */
+    }
+    .cta-button {
+        margin-left: 65px;
+    }
+    .footer-nav-div h4, .footer-nav-div .h4 {
+        /* color: #fff;
+        font-size: 20px;
+        margin-bottom: 30px; */
+        margin-left: 40px;
+        text-align: center;
+    }
+    .app-download-box {
+        margin-left: 73px;
+    }
+    /*contact start*/
+    .c_form {
+        margin-top: 65px;
+        margin-bottom: 70px;
+    }
+   
+    .author{
+        margin-top: 20px;
+    }
+}
+
+    
+    
+    /*Extra large devices (large desktops, 1200px and up)*/
+    @media (min-width: 1200px) and (max-width: 1399.98px) {
+    
+    }
